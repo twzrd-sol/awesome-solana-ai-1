@@ -65,7 +65,7 @@ AI coding skills that enhance developer productivity on Solana.
 - [svm-skill](https://github.com/helius-labs/core-ai/tree/main/helius-skills/svm) - Official Helius skill for exploring Solana's architecture and protocol internals covering the SVM execution engine, account model, consensus, transactions, validator economics, and token extensions using the Helius blog, SIMDs, and Agave/Firedancer source code.
 - [switchboard-skill](https://github.com/sendaifun/skills/tree/main/skills/switchboard) - AI coding skill for Switchboard Oracle covering permissionless price feeds, on-demand data, VRF randomness, and Surge streaming on Solana.
 - [bitget-wallet-skill](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) - AI agent skill for Bitget Wallet covering multi-chain token swaps, cross-chain bridges, gasless transactions, security audits, and real-time market data across 7 chains including Solana.
-- [wzrd-velocity](https://github.com/twzrd-sol/wzrd-velocity) - AI coding skill for WZRD velocity oracle covering real-time model adoption signals across HuggingFace, GitHub, OpenRouter, and ArtificialAnalysis, with 17 Switchboard feeds on Solana mainnet and a free signal API for agent routing.
+- [wzrd-velocity](https://github.com/twzrd-sol/wzrd-final) - AI coding skill for WZRD velocity oracle covering real-time model adoption signals across 100+ models on HuggingFace, GitHub, OpenRouter, and ArtificialAnalysis. 9 Switchboard feeds on Solana mainnet, 26-tool MCP server, and server-witnessed inference for agent CCM rewards.
 
 ## AI Agents
 
@@ -107,7 +107,6 @@ AI-enhanced development tools for the Solana ecosystem.
 - [Quicknode MCP](https://www.npmjs.com/package/@quicknode/mcp) - MCP server that lets AI agents provision and manage Quicknode blockchain infrastructure through natural language — set up Solana endpoints, monitor usage, and unlock blockchain operations without leaving your AI assistant.
 - [Quicknode RPC via x402](https://www.quicknode.com/docs/build-with-ai/x402-payments) - Pay-per-request access to Solana endpoints using the x402 payment protocol. No signup, no API keys — pay with USDC on Solana and make calls to Solana autonomously. Includes a [reference implementation](https://github.com/quiknode-labs/qn-x402-examples).
 - [Unbrowse](https://github.com/unbrowse-ai/unbrowse) - Agent browser that auto-discovers API endpoints from any website and publishes reusable skills to a shared marketplace. Ships with pre-learned skills for Solana DeFi protocols (Jupiter, Raydium, etc.) and x402-enabled for autonomous USDC payments on Solana.
-- [WZRD Velocity Oracle MCP](https://github.com/twzrd-sol/wzrd-final) - 26-tool MCP server for AI model velocity signals. Tracks real-time developer adoption across 100+ models on HuggingFace, GitHub, OpenRouter, and ArtificialAnalysis. 9 Switchboard pull oracle feeds on mainnet. Agents earn CCM on-chain via server-witnessed inference. Streamable HTTP at `https://app.twzrd.xyz/api/mcp`. Also available as [Python client](https://pypi.org/project/wzrd-client/) and [TypeScript SDK](https://www.npmjs.com/package/@wzrd_sol/sdk).
 
 ## Learning Resources
 
